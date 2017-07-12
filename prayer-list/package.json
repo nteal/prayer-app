@@ -10,6 +10,7 @@
     "foreman": "^2.0.0",
     "marked": "^0.3.6",
     "material-ui": "^0.18.3",
+    "mongo": "^0.1.0",
     "mongodb": "^2.2.29",
     "mongoose": "^4.10.7",
     "nodemon": "^1.11.0",
