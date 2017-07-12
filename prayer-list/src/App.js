@@ -8,13 +8,14 @@ class App extends Component {
   constructor(props) {
     super(props);
     // this.state = {
-    //
+    // hello
     // }
     this.handleClick = this.handleClick.bind(this);
 
   }
   handleClick() {
     console.log('clicked!')
+    console.log('this handles the click!')
   }
   render() {
     return (
